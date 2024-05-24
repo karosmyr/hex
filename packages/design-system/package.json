@@ -5,6 +5,7 @@
   "type": "module",
   "exports": {
     "./button": "./src/components/ui/button.tsx",
+    "./custom-card": "./src/components/ui/custom-card.tsx",
     "./tailwind.config.js": "./tailwind.config.js",
     "./postcss.config.cjs": "./postcss.config.cjs",
     "./src/index.css": "./src/index.css"
